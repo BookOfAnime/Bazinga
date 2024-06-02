@@ -1,5 +1,12 @@
 *{
   background: url('./assets/dark.png');
   background-size: cover;
-  
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.con {
+  height: 100vh;
+  overflow: hidden;
 }
