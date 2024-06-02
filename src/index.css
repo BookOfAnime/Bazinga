@@ -1,6 +1,5 @@
 *{
-  background: url('./assets/dark.png');
-  background-size: cover;
+  
   padding: 0px;
   margin: 0px;
   overflow: hidden;
@@ -8,5 +7,7 @@
 
 .con {
   height: 100vh;
+  background: url('./assets/ bler.png');
+  background-size: contain;
   overflow: hidden;
 }
