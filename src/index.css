@@ -7,7 +7,7 @@
 
 .con {
   height: 100vh;
-  background: url('./assets/ bler.png');
+  background: url('./assets/bler.png');
   background-size: contain;
   overflow: hidden;
 }
